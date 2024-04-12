@@ -6,6 +6,7 @@ import Guide from "./Guide";
 import Features from "./Features";
 import Camp from "./Camp";
 import GetApp from "./GetApp";
+import FeatureItem from "./FeatureItem"
 
 export {
     Navbar,
@@ -16,4 +17,5 @@ export {
     Features,
     Camp,
     GetApp,
+    FeatureItem
 }
