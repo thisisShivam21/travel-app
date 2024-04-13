@@ -17,5 +17,5 @@ export {
     Features,
     Camp,
     GetApp,
-    FeatureItem
+    FeatureItem,
 }
